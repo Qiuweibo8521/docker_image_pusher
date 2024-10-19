@@ -6,6 +6,5 @@ nacos/nacos-server:v2.1.1
 rabbitmq:3.9.3-management
 redis:6.0.8
 openjdk:8
-java:8
 #支持指定架构
 --platform=linux/arm64
